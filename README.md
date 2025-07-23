@@ -1,3 +1,5 @@
+# Task NO. 4
+
 #  SMS Spam Detection with Machine Learning
 
 This project is all about building a real-time SMS classifier that predicts whether a message is **spam or ham (not spam)** using machine learning. It uses **TF-IDF vectorization** and models like **Logistic Regression** and **Naive Bayes** to get the job done — fast and smart.
@@ -29,7 +31,8 @@ Here are the GitHub README templates for your **Churn Prediction** and **Fraud C
 
 ---
 
-###  **Churn Prediction with Machine Learning**
+# Task NO. 3
+###  ** Customer Churn Prediction with Machine Learning**
 
 This project focuses on predicting customer churn — whether a customer will leave a service or stay — using machine learning techniques. The goal is to identify at-risk customers in order to take proactive retention measures.
 
@@ -57,7 +60,7 @@ This project focuses on predicting customer churn — whether a customer will le
 Provides a model capable of predicting churn probability with high accuracy and performance.
 
 ---
-
+# Task No. 2
 ###  **Credit Card Fraud Detection with Machine Learning**
 
 This project is aimed at detecting fraudulent credit card transactions using advanced machine learning techniques. It’s based on a real-world dataset with imbalanced classes.
