@@ -66,7 +66,7 @@ This project is aimed at detecting fraudulent credit card transactions using adv
 
 * Real-time fraud detection system using transaction-level features.
 * Handles **imbalanced datasets** using methods like SMOTE or undersampling.
-* Uses algorithms such as **Random Forest** and **Logistic Regression**.
+* Uses algorithms such as **Random Forest**.
 
  **Tech Stack:**
 
